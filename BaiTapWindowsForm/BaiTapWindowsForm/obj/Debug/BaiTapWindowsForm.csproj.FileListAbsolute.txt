@@ -1,0 +1,14 @@
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe.config
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.pdb
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.AssemblyReference.cache
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.SuggestedBindingRedirects.cache
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.FrmBai1.resources
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.FrmChinh.resources
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.Properties.Resources.resources
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.GenerateResource.cache
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.CoreCompileInputs.cache
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.exe
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.pdb
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.FrmBai2.resources
+D:\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh\2112998_LamQuangLinh\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.FrmBai3.resources

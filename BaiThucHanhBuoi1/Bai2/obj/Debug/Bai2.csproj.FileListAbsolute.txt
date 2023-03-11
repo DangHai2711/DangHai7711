@@ -1,0 +1,19 @@
+D:\2112998_LamQuangLinh\BaiThucHanhBuoi1\Bai2\bin\Debug\Bai2.exe.config
+D:\2112998_LamQuangLinh\BaiThucHanhBuoi1\Bai2\bin\Debug\Bai2.exe
+D:\2112998_LamQuangLinh\BaiThucHanhBuoi1\Bai2\bin\Debug\Bai2.pdb
+D:\2112998_LamQuangLinh\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+D:\2112998_LamQuangLinh\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.csproj.GenerateResource.Cache
+D:\2112998_LamQuangLinh\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.exe
+D:\2112998_LamQuangLinh\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.pdb
+D:\2112998_LamQuangLinh\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.MainForm.resources
+H:\2117000_Đỗ Đăng Hải_CTK45B\BaiThucHanhBuoi1\Bai2\bin\Debug\Bai2.exe.config
+H:\2117000_Đỗ Đăng Hải_CTK45B\BaiThucHanhBuoi1\Bai2\bin\Debug\Bai2.exe
+H:\2117000_Đỗ Đăng Hải_CTK45B\BaiThucHanhBuoi1\Bai2\bin\Debug\Bai2.pdb
+H:\2117000_Đỗ Đăng Hải_CTK45B\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+H:\2117000_Đỗ Đăng Hải_CTK45B\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.csproj.SuggestedBindingRedirects.cache
+H:\2117000_Đỗ Đăng Hải_CTK45B\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.MainForm.resources
+H:\2117000_Đỗ Đăng Hải_CTK45B\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+H:\2117000_Đỗ Đăng Hải_CTK45B\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+H:\2117000_Đỗ Đăng Hải_CTK45B\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+H:\2117000_Đỗ Đăng Hải_CTK45B\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.exe
+H:\2117000_Đỗ Đăng Hải_CTK45B\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.pdb
